@@ -1,0 +1,3 @@
+[submodule "Projet_B"]
+	path = Projet_B
+	url = git@github.com:Yannis53/Projet_B.git
